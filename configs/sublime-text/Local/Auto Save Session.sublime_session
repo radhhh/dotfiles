@@ -518,7 +518,10 @@
 					{
 						"buffer_size": 5586,
 						"line_ending": "Unix"
-					}
+					},
+					"undo_stack":
+					[
+					]
 				}
 			],
 			"build_system": "Packages/User/CP.sublime-build",
@@ -839,8 +842,8 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										296,
+										296
 									]
 								],
 								"settings":
@@ -900,7 +903,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1388,986,3840,1080,0",
+			"position": "0,1,0,0,0,0,0,1311,986,3840,1080,0",
 			"project": "",
 			"replace":
 			{
