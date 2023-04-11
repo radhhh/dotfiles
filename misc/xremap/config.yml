@@ -1,0 +1,16 @@
+virtual_modifiers:
+  - CapsLock
+keymap:
+  - remap:
+      CapsLock-h: Left
+      CapsLock-j: Down
+      CapsLock-k: Up
+      CapsLock-l: Right
+      CapsLock-Apostrophe: C-BackSpace
+      CapsLock-Semicolon: BackSpace
+      CapsLock-i: C-Left
+      CapsLock-o: C-Right
+      CapsLock-u: Home
+      CapsLock-p: End
+      CapsLock-LeftBrace: Delete
+      CapsLock-RightBrace: C-Delete
