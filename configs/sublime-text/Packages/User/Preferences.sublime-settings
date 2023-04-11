@@ -1,0 +1,13 @@
+{
+	"font_size": 12,
+	"font_face": "JetbrainsMono Nerd Font",
+	"font_options": ["no_liga", "no_clig"],
+	"ui_scale": 1.25,
+	"color_scheme": "Packages/Agila Theme/Agila Neon Monocyanide.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"auto_complete":false,
+	"theme": "Agila Neon.sublime-theme",
+}

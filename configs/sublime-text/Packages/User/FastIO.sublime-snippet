@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+#pragma GCC optimize("O3,unroll-loops")
+#pragma GCC target("avx2,bmi,bmi2,lzcnt,popcnt")
+#define gc getchar
+namespace fastio{
+	template <typename T> void sca(T &angka){
+		T kali = 1; angka = 0; char input = gc();
+		while (input < '0' || input > '9'){if (input == '-') kali = -1; input = gc();}
+		while(input >= '0' && input <= '9')angka = (angka << 3) + (angka << 1) + input - 48, input = gc();
+		angka *= kali;
+	}
+	template < typename FIRST, typename... REST > void scan( FIRST& first, REST&... rest ); // utama
+	void scan() {}
+  	template < typename FIRST, typename... REST > void scan( FIRST& first, REST&... rest ){sca(first);scan(rest...);}
+}using namespace fastio;
+]]></content>
+	<tabTrigger>fastio</tabTrigger>
+	<scope> source.c++ </scope>
+	<description> Fast Input Template </description>
+</snippet>
