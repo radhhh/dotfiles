@@ -10,6 +10,7 @@
        :onrightclick "scripts/volume mute SINK"
        :class "vol-icon"
        :tooltip "volume ${volume.percent}%"
+       :style "font-family: 'Material Symbols Outlined'"
        {volume.icon})
      (revealer
       :transition "slideright"

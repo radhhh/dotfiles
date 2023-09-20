@@ -42,11 +42,6 @@ tooltip {
   }
 }
 
-.icon,
-.vol-icon label {
-  font-family: 'Material Symbols Outlined';
-}
-
 .module {
   margin: 0 5px;
 }
@@ -81,29 +76,21 @@ tooltip {
   margin: 0px 7px 0px 10px;
 }
 
-.vol-icon,
-.volume-icon {
-  font-family: 'Material Symbols Outlined';
-}
-
 .vol-icon label {
-  font-family: ProductSans;
+  font-size: 20px;
+  margin: 0px -6px 0px 1px;
 }
 
 .bright-icon {
   color: $yellow;
-  margin: 0px -7px 0px 1px;
-  font-family: ProductSans;
+  margin: 0px -8px 0px 1px;
+  font-family: 'Material Symbols Outlined';
 }
 
 .module-bt {
   font-size: 1.2rem;
-  margin: 0px 1px 0px 1px;
+  // margin: 0px 1px 0px 1px;
   font-family: 'Material Symbols Outlined';
-}
-
-.net-icon {
-  font-family: Product Sans;
 }
 
 .net-icon {

@@ -19,6 +19,7 @@
       (centerbox
         :halign "center"
         :class "music-button-box icon"
+        :style "font-family: 'Material Symbols Outlined'"
         (button :class "music-button" :onclick "playerctl previous" "")
         (button :class "music-button" :onclick "playerctl play-pause" {music.status})
         (button :class "music-button" :onclick "playerctl next" ""))

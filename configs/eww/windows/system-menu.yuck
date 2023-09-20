@@ -34,7 +34,7 @@
           (button
             :class "wifi-button"
             :onclick "scripts/net toggle"
-
+            :style "font-family: 'Material Symbols Outlined'"
             {net.icon})
           (label
             :class "separator"
@@ -59,6 +59,7 @@
           (button
             :class "bluetooth-button"
             :onclick "scripts/bluetooth toggle"
+            :style "font-family: 'Material Symbols Outlined';"
             {bluetooth.icon})
           (label
             :class "separator"
@@ -98,7 +99,7 @@
         :class "volume-slider-box"
         :space-evenly false
         (button
-          :style "font-family:ProductSans;"
+          :style "font-family: 'Material Symbols Outlined';"
           :class "volume-icon icon"
           :onclick "scripts/volume mute SINK"
           {volume.icon})
@@ -113,7 +114,7 @@
         (button
           :class "volume-icon icon"
           :onclick "scripts/volume mute SOURCE"
-          :style "font-family:ProductSans;"
+          :style "font-family:'Material Symbols Outlined';"
           "")
         (scale
           :class "volume-bar"
@@ -125,7 +126,7 @@
         :space-evenly false
         (button
           :class "brightness-slider-icon icon"
-          :style "font-family:ProductSans;"
+          :style "font-family:'Material Symbols Outlined';"
           {brightness.icon})
         (scale
           :class "brightness-slider" 
@@ -147,6 +148,7 @@
           :thickness 3
           (label
             :text ""
+            :style "font-family: 'Material Symbols Outlined';"
             :class "sys-icon-cpu icon"))
         (box
           :orientation "v"
@@ -176,6 +178,7 @@
           :thickness 3
           (label
             :text ""
+            :style "font-family: 'Material Symbols Outlined'"
             :class "sys-icon-mem icon"))
         (box
           :orientation "v"
@@ -198,7 +201,7 @@
         :halign "start"
         (label
           :class "battery-icon icon"
-          :style "color: ${battery.color}; font-family:ProductSans;"
+          :style "color: ${battery.color}; font-family:'Material Symbols Outlined';"
           :text {battery.icon})
         (label
           :class "battery-percentage"
@@ -219,6 +222,7 @@
         (button
           :halign "end"
           :class "power-button icon"
+          :style "font-family: 'Material Symbols Outlined'"
           :onclick "wlogout -p layer-shell &"
           "")))))
 

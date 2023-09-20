@@ -3,5 +3,5 @@
     :class "module icon"
     :onclick "~/.config/eww/scripts/network_manager/rofi-network-manager.sh & "
     :tooltip {net.essid}
-    :style "color: ${net.color};"
+    :style "color: ${net.color}; font-family: 'Material Symbols Outlined'"
     "${net.icon}"))
