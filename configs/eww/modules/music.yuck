@@ -10,7 +10,7 @@
         :style "background-image: url(\"${music_cover}\");")
       (button
         :class "modules" 
-        :onclick "${EWW_CMD} open --toggle music"
+        :onclick "sleep 0.1 && ${EWW_CMD} open --toggle music"
         :style "font-family: ProductSans;"
 	:style "color: #acb3bf;"
         {music.title})

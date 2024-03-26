@@ -74,23 +74,22 @@
           :xalign 0.5
           :tooltip "${bluetooth.text} ${bluetooth.battery}"
           :limit-width 15))
-
-      (box
-        :class "airplane-box"
-        :space-evenly false
-        :orientation "v"
-        (box
-          :class "element"
-          (button
-            :class "airplane-button"
-            :style "font-family:Material Symbols Outlined;"
-            :onclick "scripts/airplane toggle"
-            airplane))
-        (label
-          :text "Airplane Mode"
-          :style "font-family:ProductSans;"
-          :xalign 0.5
-          :limit-width 16)))
+  		(box
+          :class "airplane-box"
+          :space-evenly false
+          :orientation "v"
+          (box
+            :class "element"
+            (button
+              :class "airplane-button"
+              :style "font-family:Material Symbols Outlined;"
+              :onclick "scripts/airplane toggle"
+              airplane))
+          (label
+            :text "Airplane Mode"
+            :style "font-family:ProductSans;"
+            :xalign 0.5
+            :limit-width 16)))
 
     (box
       :class "sliders"

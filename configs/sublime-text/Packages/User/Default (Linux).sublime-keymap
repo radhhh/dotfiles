@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+k", "ctrl+o"], "command": "prompt_open_folder" },
+]

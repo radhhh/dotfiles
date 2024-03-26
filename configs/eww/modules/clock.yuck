@@ -24,6 +24,6 @@
         :style "font-family: ProductSans;"
         (button
           :class "date"
-          :onclick "${EWW_CMD} open --toggle calendar"
+          :onclick "sleep 0.1 && ${EWW_CMD} open --toggle calendar"
           :style "font-family: ProductSans;"
           {time.date})))))

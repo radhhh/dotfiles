@@ -7,7 +7,7 @@
 @mixin window {
   border: 1px solid $border;
   box-shadow: 0 2px 3px $shadow;
-  margin: 5px 0px 5px;
+  margin: 0px 0px 0px;
   @include rounding;
 }
 
@@ -26,10 +26,11 @@
 .bar {
   background-color: $bg;
   color: $fg;
-  border-radius: 12.5px;
+  border-radius: 0px;
   label {
     font-size: 1.3rem;
   }
+  padding: 0px 2px;
 }
 
 tooltip {

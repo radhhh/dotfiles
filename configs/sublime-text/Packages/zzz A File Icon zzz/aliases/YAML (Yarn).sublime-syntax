@@ -4,9 +4,9 @@ name: YAML (Yarn)
 scope: source.yaml.yarn
 hidden: true
 file_extensions:
-  - yarn.lock
-  - .yarnrc.yml
   - .yarnrc.yaml
+  - .yarnrc.yml
+  - yarn.lock
 contexts:
   main:
     - include: scope:source.yaml

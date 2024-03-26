@@ -2,9 +2,10 @@
   (box
     :class "launcher_module"
     :orientation "h"
+    :onclick "sleep 0.1 && rofi -show drun"
     (button
       (image
         :class "launcher-icon"
         :path "assets/ghost.png"
-      :image-width 28))
+      :image-width 24))
 ))
