@@ -1,0 +1,1437 @@
+{
+	"file_history":
+	[
+		"/home/radhya/codes/cf/1942/b.cpp",
+		"/home/radhya/codes/cf/1942/a.cpp",
+		"/home/radhya/codes/osn2022/x1a.cpp",
+		"/home/radhya/codes/osn2022/1a.cpp",
+		"/home/radhya/codes/tmp.cpp",
+		"/home/radhya/codes/osn2022/x1b.cpp",
+		"/home/radhya/codes/osn2022/1b.cpp",
+		"/home/radhya/codes/cf/1946/a.cpp",
+		"/home/radhya/codes/cf/1946/b.cpp",
+		"/home/radhya/codes/cf/1946/c.cpp",
+		"/home/radhya/codes/cf/1946/d.cpp",
+		"/home/radhya/codes/cf/1946/e.cpp",
+		"/home/radhya/codes/cf/1946/d.cppcp",
+		"/home/radhya/codes/p2/d6/c.cpp",
+		"/home/radhya/codes/p2/s2/c/memori.cpp",
+		"/home/radhya/codes/p2/s2/b/give_hints.cpp",
+		"/home/radhya/codes/p2/s2/b/sample_1.in",
+		"/home/radhya/codes/p2/s2/b/solve_maze.cpp",
+		"/home/radhya/codes/p2/s2/c/memori3.cpp",
+		"/home/radhya/codes/p2/s2/c/memori2.cpp",
+		"/home/radhya/codes/p2/s2/b/give_hints.h",
+		"/home/radhya/codes/p2/s2/c/sample_1.in",
+		"/home/radhya/codes/p2/s2/a/apollo.cpp",
+		"/home/radhya/codes/p2/s2/c/memori1.cpp",
+		"/home/radhya/codes/p2/s1/b/guessing.cpp",
+		"/home/radhya/codes/p2/s1/c/ninja.cpp",
+		"/home/radhya/codes/p2/s1/a/raputa.cpp",
+		"/home/radhya/codes/p2/s1/c/ninja2.cpp",
+		"/home/radhya/codes/p2/s1/a/compile_cpp.sh",
+		"/home/radhya/codes/p2/s1/c/ninja1.cpp",
+		"/home/radhya/codes/p2/random/cf321e.cpp",
+		"/home/radhya/codes/p2/d9/a1.cpp",
+		"/home/radhya/codes/p2/random/cf1000e.cpp",
+		"/home/radhya/codes/p2/random/cf1083e.cpp",
+		"/home/radhya/dotfiles/configs/sublime-text/Packages/User/CP.sublime-build",
+		"/home/radhya/codes/p2/d9/random.cpp",
+		"/home/radhya/codes/p2/d9/c.cpp",
+		"/home/radhya/codes/p2/d9/random",
+		"/home/radhya/codes/p2/d9/d2.cpp",
+		"/home/radhya/codes/p2/d9/d01.cpp",
+		"/home/radhya/codes/p2/d9/d9",
+		"/home/radhya/codes/p2/d8/ac.cpp",
+		"/home/radhya/codes/p2/d5/bac.cpp",
+		"/home/radhya/codes/p2/d8/dac.cpp",
+		"/home/radhya/codes/p2/d8/c1.cpp",
+		"/home/radhya/codes/p2/d8/random.cpp",
+		"/home/radhya/codes/p2/d8/c.cpp",
+		"/home/radhya/codes/p2/d8/b.cpp",
+		"/home/radhya/codes/p2/d8/d2.cpp",
+		"/home/radhya/codes/p2/d8/d1.cpp",
+		"/home/radhya/codes/p2/d8/a.cpp",
+		"/home/radhya/codes/p2/d8/a2.cpp",
+		"/home/radhya/codes/p2/d7/a2.cpp",
+		"/home/radhya/dotfiles/configs/sublime-text/Packages/User/cptemp.sublime-snippet",
+		"/home/radhya/dotfiles/configs/sublime-text/Packages/User/codeforces.sublime-snippet",
+		"/home/radhya/codes/p2/d7/c.cpp",
+		"/home/radhya/codes/p2/d7/a1.cpp",
+		"/home/radhya/codes/p2/d7/c1.cpp",
+		"/home/radhya/codes/p2/d7/b.cpp",
+		"/home/radhya/codes/p2/d7/tmp/a2.cpp",
+		"/home/radhya/codes/p2/d6/ac.cpp",
+		"/home/radhya/codes/p2/d6/a.cpp",
+		"/home/radhya/codes/p2/d6/d.cpp",
+		"/home/radhya/codes/p2/d6/b.cpp",
+		"/home/radhya/codes/p2/d5/a.cpp",
+		"/home/radhya/codes/p2/random/hackearth_tgt.cpp",
+		"/home/radhya/codes/p2/q1/dac.cpp",
+		"/home/radhya/codes/p2/q1/random.cpp",
+		"/home/radhya/codes/p2/q1/d.cpp",
+		"/home/radhya/codes/p2/q1/toxic/toxic.cpp",
+		"/home/radhya/codes/p2/q1/toxic/random.cpp",
+		"/home/radhya/codes/p2/q1/e.cpp",
+		"/home/radhya/codes/p2/q1/bac.cpp",
+		"/home/radhya/codes/p2/q1/b1.cpp",
+		"/home/radhya/codes/p2/q1/a.cpp",
+		"/home/radhya/codes/p2/q1/b.cpp",
+		"/home/radhya/codes/p2/q1/q1",
+		"/home/radhya/codes/p2/d5/c/relic.cpp",
+		"/home/radhya/codes/p2/d5/random.cpp",
+		"/home/radhya/codes/p2/d5/b1.cpp",
+		"/home/radhya/codes/p2/d5/a1.cpp",
+		"/home/radhya/codes/p2/d5/c/brelic.cpp",
+		"/home/radhya/codes/p2/d5/c/a.cpp",
+		"/home/radhya/codes/p2/d5/c/grader.cpp",
+		"/home/radhya/codes/p2/d5/dac.cpp",
+		"/home/radhya/codes/p2/d5/c.cpp",
+		"/home/radhya/codes/cf/1433/e.cpp",
+		"/home/radhya/codes/cf/1433/c.cpp",
+		"/home/radhya/codes/cf/1433/b.cpp",
+		"/home/radhya/codes/cf/1433/a.cpp",
+		"/home/radhya/codes/p2/d4/c.cpp",
+		"/home/radhya/codes/p2/d4/b/diplomacy.cpp",
+		"/home/radhya/codes/p2/d4/a_bf.cpp",
+		"/home/radhya/codes/p2/d4/acc.cpp",
+		"/home/radhya/codes/cf/1941/a.cpp",
+		"/home/radhya/codes/cf/1941/b.cpp",
+		"/home/radhya/codes/p2/d4/ac.cpp",
+		"/home/radhya/codes/p2/d4/a.cpp",
+		"/home/radhya/tweaks/newaybar/dotfiles/config/hypr/scripts/lock.sh",
+		"/home/radhya/tweaks/dotfiles/misc/lockscreen/lock-screen.sh",
+		"/home/radhya/programs/scripts/lock-screen.sh",
+		"/home/radhya/codes/p2/d4/d.cpp",
+		"/home/radhya/codes/p2/d4/a-backup.cpp",
+		"/home/radhya/codes/p2/d4/b/1-sample.txt",
+		"/home/radhya/codes/pelatnas2023/p3/pjj-repeating/pjj1/a1.cpp",
+		"/home/radhya/codes/p2/d4/b/diplomacyLCA.cpp",
+		"/home/radhya/codes/p2/d4/b/compile_cpp.sh",
+		"/home/radhya/codes/p2/d3/bac.cpp",
+		"/home/radhya/codes/p2/d3/c/permutations.cpp",
+		"/home/radhya/codes/p2/d3/c/compile_cpp.sh",
+		"/home/radhya/codes/p2/d3/a.cpp",
+		"/home/radhya/codes/p2/d3/d.cpp",
+		"/home/radhya/codes/p2/random/apio2018c.cpp",
+		"/home/radhya/codes/p2/random/cses1686.cpp",
+		"/home/radhya/testdisk.log",
+		"/home/radhya/codes/cf/342e.cpp",
+		"/home/radhya/landing/user_output.txt",
+		"/home/radhya/landing/test_output.txt",
+		"/home/radhya/landing/test_input.txt",
+		"/home/radhya/landing/user_output(2).txt",
+		"/home/radhya/landing/user_output(1).txt",
+		"/home/radhya/codes/p2/random/cses1705.cpp",
+		"/home/radhya/codes/pelatnas2024/p2/d2/c2.cpp",
+		"/home/radhya/codes/pelatnas2024/p2/d1/d.cpp",
+		"/home/radhya/codes/cf/870/e.cpp",
+		"/home/radhya/codes/pelatnas2024/p2/d2/d.cpp",
+		"/home/radhya/codes/pelatnas2024/p2/d2/c1.cpp",
+		"/home/radhya/codes/pelatnas2024/p2/d2/random.cpp"
+	],
+	"folder_history":
+	[
+		"/home/radhya/codes/p2/d6",
+		"/home/radhya/codes/cf/1942",
+		"/home/radhya/codes",
+		"/home/radhya/codes/cf/1946",
+		"/home/radhya/codes/cf",
+		"/home/radhya/codes/p2",
+		"/home/radhya/codes/p2/s2",
+		"/home/radhya/codes/p2/s1",
+		"/home/radhya/codes/p2/d9",
+		"/home/radhya/.config/sublime-text/Packages/User",
+		"/home/radhya/codes/p2/d8",
+		"/home/radhya/codes/p2/q1",
+		"/home/radhya/codes/p2/d5/c",
+		"/home/radhya/codes/cf/1433",
+		"/home/radhya/codes/pelatnas2024/p2/d1",
+		"/home/radhya/codes/pelatnas2024/p2",
+		"/home/radhya/codes/cf/1934",
+		"/home/radhya/codes/cf/1937",
+		"/home/radhya/codes/kattis",
+		"/home/radhya/codes/cf/922",
+		"/home/radhya/codes/cf/1922",
+		"/home/radhya/codes/kampres",
+		"/home/radhya/codes/cf/919",
+		"/home/radhya/codes/p1",
+		"/home/radhya/codes/npc",
+		"/home/radhya/codes/npc2023",
+		"/home/radhya/codes/bnpchs2023",
+		"/home/radhya/codes/cf/893",
+		"/ubuntu/radhya/codes/p2/kuis2",
+		"/ubuntu/radhya/codes/p2/d8",
+		"/ubuntu/radhya/codes/p2",
+		"/ubuntu/radhya/codes/p2/d1",
+		"/ubuntu/radhya/codes/pelatnas2"
+	],
+	"last_version": 4169,
+	"last_window_id": 84,
+	"log_indexing": false,
+	"next_update_check": 1711944992,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 864.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			29.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fastio",
+						"fastio\tfast-input"
+					],
+					[
+						"gp",
+						"gp_hash_table\tgp_hash_table"
+					],
+					[
+						"pb",
+						"pbds\tpb_ds"
+					],
+					[
+						"tmp",
+						"tmppar"
+					],
+					[
+						"fast",
+						"fastio\tfast-input"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Functional"
+						]
+					],
+					[
+						"Packages/User/CP.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++14"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Functional"
+						]
+					],
+					[
+						"Packages/User/CP.sublime-build",
+						"Functional"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++17"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++14"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Functional"
+						]
+					],
+					[
+						"Packages/User/CP.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Functional"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++17"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++14"
+						]
+					],
+					[
+						"Packages/User/CP.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"indent",
+						"Indentation: Detect"
+					],
+					[
+						"d++",
+						"Build With: CP - C++14"
+					],
+					[
+						"build",
+						"Build With: CP"
+					],
+					[
+						"tab",
+						"Snippet: gp_hash_table"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"c+",
+						"Set Syntax: C++"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"markdo",
+						"Set Syntax: Markdown"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"package settings",
+						"Preferences: Package Control Settings"
+					],
+					[
+						"preferences packages settings",
+						"Preferences: Package Control Settings"
+					],
+					[
+						"preferencespackages",
+						"Preferences: Browse Packages"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"markdonw",
+						"Set Syntax: Markdown"
+					],
+					[
+						"packages",
+						"Preferences: Browse Packages"
+					],
+					[
+						"++",
+						"Set Syntax: C++"
+					],
+					[
+						"packa",
+						"View Package File"
+					],
+					[
+						"agila",
+						"Agila: Select Theme"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ayu",
+						"ayu: Activate theme"
+					],
+					[
+						"bash",
+						"Set Syntax: Bash"
+					],
+					[
+						"func",
+						"Build With: CP - Functional"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"markdow",
+						"Set Syntax: Markdown"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"color sche",
+						"UI: Select Color Scheme"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"color scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: agila",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/radhya/codes/cf/1942/b.cpp",
+				"/home/radhya/codes/cf/1942/a.cpp",
+				"/home/radhya/codes/osn2022/x1a.cpp",
+				"/home/radhya/codes/osn2022/1a.cpp",
+				"/home/radhya/codes/tmp.cpp",
+				"/home/radhya/codes/osn2022/x1b.cpp",
+				"/home/radhya/codes/osn2022/1b.cpp",
+				"/home/radhya/codes/cf/1946/a.cpp",
+				"/home/radhya/codes/cf/1946/b.cpp",
+				"/home/radhya/codes/cf/1946/c.cpp",
+				"/home/radhya/codes/cf/1946/d.cpp",
+				"/home/radhya/codes/cf/1946/e.cpp",
+				"/home/radhya/codes/cf/1946/d.cppcp",
+				"/home/radhya/codes/p2/d6/c.cpp",
+				"/home/radhya/codes/p2/s2/c/memori.cpp",
+				"/home/radhya/codes/p2/s2/b/give_hints.cpp",
+				"/home/radhya/codes/p2/s2/b/sample_1.in",
+				"/home/radhya/codes/p2/s2/b/solve_maze.cpp",
+				"/home/radhya/codes/p2/s2/c/memori3.cpp",
+				"/home/radhya/codes/p2/s2/c/memori2.cpp",
+				"/home/radhya/codes/p2/s2/b/give_hints.h",
+				"/home/radhya/codes/p2/s2/c/sample_1.in",
+				"/home/radhya/codes/p2/s2/a/apollo.cpp",
+				"/home/radhya/codes/p2/s2/c/memori1.cpp",
+				"/home/radhya/codes/p2/s1/b/guessing.cpp",
+				"/home/radhya/codes/p2/s1/c/ninja.cpp",
+				"/home/radhya/codes/p2/s1/a/raputa.cpp",
+				"/home/radhya/codes/p2/s1/c/ninja2.cpp",
+				"/home/radhya/codes/p2/s1/a/compile_cpp.sh",
+				"/home/radhya/codes/p2/s1/c/ninja1.cpp",
+				"/home/radhya/codes/p2/random/cf321e.cpp",
+				"/home/radhya/codes/p2/d9/a1.cpp",
+				"/home/radhya/codes/p2/random/cf1000e.cpp",
+				"/home/radhya/codes/p2/random/cf1083e.cpp",
+				"/home/radhya/dotfiles/configs/sublime-text/Packages/User/CP.sublime-build",
+				"/home/radhya/codes/p2/d9/c.cpp",
+				"/home/radhya/codes/p2/d9/random.cpp",
+				"/home/radhya/codes/p2/d9/random",
+				"/home/radhya/codes/p2/d9/d2.cpp",
+				"/home/radhya/codes/p2/d9/d01.cpp",
+				"/home/radhya/codes/p2/d9/d9",
+				"/home/radhya/codes/p2/d8/ac.cpp",
+				"/home/radhya/codes/p2/d5/bac.cpp",
+				"/home/radhya/codes/p2/d8/dac.cpp",
+				"/home/radhya/codes/p2/d8/c1.cpp",
+				"/home/radhya/codes/p2/d8/random.cpp",
+				"/home/radhya/codes/p2/d8/c.cpp",
+				"/home/radhya/codes/p2/d8/b.cpp",
+				"/home/radhya/codes/p2/d8/d2.cpp",
+				"/home/radhya/codes/p2/d8/d1.cpp",
+				"/home/radhya/codes/p2/d8/a.cpp",
+				"/home/radhya/codes/p2/d8/a2.cpp",
+				"/home/radhya/codes/p2/d7/a2.cpp",
+				"/home/radhya/dotfiles/configs/sublime-text/Packages/User/cptemp.sublime-snippet",
+				"/home/radhya/dotfiles/configs/sublime-text/Packages/User/codeforces.sublime-snippet",
+				"/home/radhya/codes/p2/d7/c.cpp",
+				"/home/radhya/codes/p2/d7/a1.cpp",
+				"/home/radhya/codes/p2/d7/c1.cpp",
+				"/home/radhya/codes/p2/d7/b.cpp",
+				"/home/radhya/codes/p2/d7/tmp/a2.cpp",
+				"/home/radhya/codes/p2/d6/ac.cpp",
+				"/home/radhya/codes/p2/d6/a.cpp",
+				"/home/radhya/codes/p2/d6/d.cpp",
+				"/home/radhya/codes/p2/d6/b.cpp",
+				"/home/radhya/codes/p2/d5/a.cpp",
+				"/home/radhya/codes/p2/random/hackearth_tgt.cpp",
+				"/home/radhya/codes/p2/q1/dac.cpp",
+				"/home/radhya/codes/p2/q1/random.cpp",
+				"/home/radhya/codes/p2/q1/d.cpp",
+				"/home/radhya/codes/p2/q1/toxic/toxic.cpp",
+				"/home/radhya/codes/p2/q1/toxic/random.cpp",
+				"/home/radhya/codes/p2/q1/e.cpp",
+				"/home/radhya/codes/p2/q1/bac.cpp",
+				"/home/radhya/codes/p2/q1/b1.cpp",
+				"/home/radhya/codes/p2/q1/a.cpp",
+				"/home/radhya/codes/p2/q1/b.cpp",
+				"/home/radhya/codes/p2/q1/q1",
+				"/home/radhya/codes/p2/d5/c/relic.cpp",
+				"/home/radhya/codes/p2/d5/random.cpp",
+				"/home/radhya/codes/p2/d5/b1.cpp",
+				"/home/radhya/codes/p2/d5/a1.cpp",
+				"/home/radhya/codes/p2/d5/c/brelic.cpp",
+				"/home/radhya/codes/p2/d5/c/a.cpp",
+				"/home/radhya/codes/p2/d5/c/grader.cpp",
+				"/home/radhya/codes/p2/d5/dac.cpp",
+				"/home/radhya/codes/p2/d5/c.cpp",
+				"/home/radhya/codes/cf/1433/e.cpp",
+				"/home/radhya/codes/cf/1433/c.cpp",
+				"/home/radhya/codes/cf/1433/b.cpp",
+				"/home/radhya/codes/cf/1433/a.cpp",
+				"/home/radhya/codes/p2/d4/c.cpp",
+				"/home/radhya/codes/p2/d4/b/diplomacy.cpp",
+				"/home/radhya/codes/p2/d4/a_bf.cpp",
+				"/home/radhya/codes/p2/d4/acc.cpp",
+				"/home/radhya/codes/cf/1941/a.cpp",
+				"/home/radhya/codes/cf/1941/b.cpp",
+				"/home/radhya/codes/p2/d4/ac.cpp",
+				"/home/radhya/codes/p2/d4/a.cpp",
+				"/home/radhya/tweaks/newaybar/dotfiles/config/hypr/scripts/lock.sh",
+				"/home/radhya/tweaks/dotfiles/misc/lockscreen/lock-screen.sh",
+				"/home/radhya/programs/scripts/lock-screen.sh",
+				"/home/radhya/codes/p2/d4/d.cpp",
+				"/home/radhya/codes/p2/d4/a-backup.cpp",
+				"/home/radhya/codes/p2/d4/b/1-sample.txt",
+				"/home/radhya/codes/pelatnas2023/p3/pjj-repeating/pjj1/a1.cpp",
+				"/home/radhya/codes/p2/d4/b/diplomacyLCA.cpp",
+				"/home/radhya/codes/p2/d4/b/compile_cpp.sh",
+				"/home/radhya/codes/p2/d3/bac.cpp",
+				"/home/radhya/codes/p2/d3/c/permutations.cpp",
+				"/home/radhya/codes/p2/d3/c/compile_cpp.sh",
+				"/home/radhya/codes/p2/d3/a.cpp",
+				"/home/radhya/codes/p2/d3/d.cpp",
+				"/home/radhya/codes/p2/random/apio2018c.cpp",
+				"/home/radhya/codes/p2/random/cses1686.cpp",
+				"/home/radhya/testdisk.log",
+				"/home/radhya/codes/cf/342e.cpp",
+				"/home/radhya/landing/user_output.txt",
+				"/home/radhya/landing/test_output.txt",
+				"/home/radhya/landing/test_input.txt",
+				"/home/radhya/landing/user_output(2).txt",
+				"/home/radhya/landing/user_output(1).txt",
+				"/home/radhya/codes/p2/random/cses1705.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d2/c2.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d1/d.cpp",
+				"/home/radhya/codes/cf/870/e.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d2/d.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d2/c1.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d2/random.cpp"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 163.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 75.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 160.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/CP.sublime-build",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 202.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1536.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fastio",
+						"fastio\tfast-input"
+					],
+					[
+						"gp",
+						"gp_hash_table\tgp_hash_table"
+					],
+					[
+						"pb",
+						"pbds\tpb_ds"
+					],
+					[
+						"tmp",
+						"tmppar"
+					],
+					[
+						"fast",
+						"fastio\tfast-input"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/radhya/codes/p2/d6/ac.cpp",
+					"settings":
+					{
+						"buffer_size": 4570,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							2,
+							"left_delete",
+							null,
+							"AgAAAE4PAAAAAAAATg8AAAAAAAB2AAAACS8vIGNvdXQgPDwgIlJFUE9SVFxuIjsKCS8vIGZvcihpbnQgaSA9IDE7IGkgPD0gazsgaSsrKXsKCS8vIAljb3V0IDw8IHF1ZXJ5KDEsIDEsIGssIGksIGkpIDw8ICcgJzsKCS8vIH0gY291dCA8PCAnXG4nO00PAAAAAAAATQ8AAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAxA8AAAAAAABODwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAANgPAAAAAAAA2A8AAAAAAABMAAAACQkJLy8gY291dCA8PCAiICAgIHNldCAiIDw8IGRheVtub3ddIDw8ICIgIiA8PCBrIDw8ICIgLT4gIiA8PCB2Y3V0IDw8ICdcbic7Cg",
+							"AQAAAAAAAAABAAAA6g8AAAAAAADqDwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAAJgQAAAAAAAAmBAAAAAAAABOAAAACQkJLy8gY291dCA8PCAiICAgIHNldCAiIDw8IGRheVtub3ddIDw8ICIgIiA8PCByLTEgPDwgIiAtPiAiIDw8IHZjdXQgPDwgJ1xuJzsK",
+							"AQAAAAAAAAABAAAAmBAAAAAAAACYEAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							12,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAAEoRAAAAAAAAShEAAAAAAABTAAAACQkvLyBjb3V0IDw8ICIgICAgYWRkIHBlbmQgIiA8PCBudW0gPDwgIiAtPiAiIDw8IHF1ZXJ5KDEsIDEsIGssIG51bSwgbnVtKSA8PCBlbmRsOwo",
+							"AQAAAAAAAAABAAAAXREAAAAAAABdEQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAAKoRAAAAAAAAqhEAAAAAAACCAAAACS8vIGNvdXQgPDwgIiByZXNldCBzZWd0cmVlISEhXG4iOwoJLy8gZm9yKGludCBpID0gMTsgaSA8PSBrOyBpKyspewoJLy8gCWNvdXQgPDwgcXVlcnkoMSwgMSwgaywgaSwgaSkgPDwgJyAnOwoJLy8gfSBjb3V0IDw8ICdcbic7Cg",
+							"AQAAAAAAAAABAAAALBIAAAAAAACqEQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							18,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAAIALAAAAAAAAgAsAAAAAAAAzAAAACS8vIGNvdXQgPDwgImNhbGMgIiA8PCBub3cgPDwgIiAiIDw8IGtlZXAgPDwgZW5kbDsK",
+							"AQAAAAAAAAABAAAAkAsAAAAAAACQCwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAAOYLAAAAAAAA5gsAAAAAAAApAAAACS8vIGNvdXQgPDwgIiAgYmFjayB0byAiIDw8IG5vdyA8PCBlbmRsOwo",
+							"AQAAAAAAAAABAAAA5gsAAAAAAADmCwAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							23,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAABAMAAAAAAAAEAwAAAAAAAApAAAACS8vIGNvdXQgPDwgIiAgYmFjayB0byAiIDw8IG5vdyA8PCBlbmRsOwo",
+							"AQAAAAAAAAABAAAAEAwAAAAAAAAQDAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							25,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAAIgMAAAAAAAAiAwAAAAAAAB0AAAACQkJLy8gY291dCA8PCAiICAgIHVwZGNoZCAiIDw8IHBlbmRbY2hkXVtpXS5maSA8PCAiIC0gIiA8PCBwZW5kW2NoZF1baSsxXS5maS0xIDw8ICIgPSAiIDw8IHBlbmRbY2hkXVtpXS5zZSA8PCAnXG4nOwo",
+							"AQAAAAAAAAABAAAAiAwAAAAAAACIDAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							29,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAAC0NAAAAAAAALQ0AAAAAAABqAAAACQkJLy8gY291dCA8PCAiICAgIHVwZGNoZCAiIDw8IHBlbmRbY2hkXS5iYWNrKCkuZmkgPDwgIiAtICIgPDwgayA8PCAiID0gIiA8PCBwZW5kW2NoZF0uYmFjaygpLnNlIDw8ICdcbic7Cg",
+							"AQAAAAAAAAABAAAAQQ0AAAAAAABBDQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Line.sublime-macro"
+							},
+							"AQAAAPYMAAAAAAAA9gwAAAAAAAAdAAAACQkvLyBjb3V0IDw8ICJhbWFuIiA8PCBlbmRsOwo",
+							"AQAAAAAAAAABAAAA9gwAAAAAAAD2DAAAAAAAAAAAAAAAAAAA"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Functional"
+						]
+					],
+					[
+						"Packages/User/CP.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++14"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Functional"
+						]
+					],
+					[
+						"Packages/User/CP.sublime-build",
+						"Functional"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++17"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++14"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Functional"
+						]
+					],
+					[
+						"Packages/User/CP.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/CP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"Functional"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++17"
+						],
+						[
+							"Packages/User/CP.sublime-build",
+							"C++14"
+						]
+					],
+					[
+						"Packages/User/CP.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"indent",
+						"Indentation: Detect"
+					],
+					[
+						"d++",
+						"Build With: CP - C++14"
+					],
+					[
+						"build",
+						"Build With: CP"
+					],
+					[
+						"tab",
+						"Snippet: gp_hash_table"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"c+",
+						"Set Syntax: C++"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"markdo",
+						"Set Syntax: Markdown"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"package settings",
+						"Preferences: Package Control Settings"
+					],
+					[
+						"preferences packages settings",
+						"Preferences: Package Control Settings"
+					],
+					[
+						"preferencespackages",
+						"Preferences: Browse Packages"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"markdown",
+						"Set Syntax: Markdown"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"markdonw",
+						"Set Syntax: Markdown"
+					],
+					[
+						"packages",
+						"Preferences: Browse Packages"
+					],
+					[
+						"++",
+						"Set Syntax: C++"
+					],
+					[
+						"packa",
+						"View Package File"
+					],
+					[
+						"agila",
+						"Agila: Select Theme"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ayu",
+						"ayu: Activate theme"
+					],
+					[
+						"bash",
+						"Set Syntax: Bash"
+					],
+					[
+						"func",
+						"Build With: CP - Functional"
+					],
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"markdow",
+						"Set Syntax: Markdown"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"color sche",
+						"UI: Select Color Scheme"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"color scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: agila",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/radhya/codes/p2/d6"
+			],
+			"file_history":
+			[
+				"/home/radhya/codes/cf/1942/b.cpp",
+				"/home/radhya/codes/cf/1942/a.cpp",
+				"/home/radhya/codes/osn2022/x1a.cpp",
+				"/home/radhya/codes/osn2022/1a.cpp",
+				"/home/radhya/codes/tmp.cpp",
+				"/home/radhya/codes/osn2022/x1b.cpp",
+				"/home/radhya/codes/osn2022/1b.cpp",
+				"/home/radhya/codes/cf/1946/a.cpp",
+				"/home/radhya/codes/cf/1946/b.cpp",
+				"/home/radhya/codes/cf/1946/c.cpp",
+				"/home/radhya/codes/cf/1946/d.cpp",
+				"/home/radhya/codes/cf/1946/e.cpp",
+				"/home/radhya/codes/cf/1946/d.cppcp",
+				"/home/radhya/codes/p2/d6/c.cpp",
+				"/home/radhya/codes/p2/s2/c/memori.cpp",
+				"/home/radhya/codes/p2/s2/b/give_hints.cpp",
+				"/home/radhya/codes/p2/s2/b/sample_1.in",
+				"/home/radhya/codes/p2/s2/b/solve_maze.cpp",
+				"/home/radhya/codes/p2/s2/c/memori3.cpp",
+				"/home/radhya/codes/p2/s2/c/memori2.cpp",
+				"/home/radhya/codes/p2/s2/b/give_hints.h",
+				"/home/radhya/codes/p2/s2/c/sample_1.in",
+				"/home/radhya/codes/p2/s2/a/apollo.cpp",
+				"/home/radhya/codes/p2/s2/c/memori1.cpp",
+				"/home/radhya/codes/p2/s1/b/guessing.cpp",
+				"/home/radhya/codes/p2/s1/c/ninja.cpp",
+				"/home/radhya/codes/p2/s1/a/raputa.cpp",
+				"/home/radhya/codes/p2/s1/c/ninja2.cpp",
+				"/home/radhya/codes/p2/s1/a/compile_cpp.sh",
+				"/home/radhya/codes/p2/s1/c/ninja1.cpp",
+				"/home/radhya/codes/p2/random/cf321e.cpp",
+				"/home/radhya/codes/p2/d9/a1.cpp",
+				"/home/radhya/codes/p2/random/cf1000e.cpp",
+				"/home/radhya/codes/p2/random/cf1083e.cpp",
+				"/home/radhya/dotfiles/configs/sublime-text/Packages/User/CP.sublime-build",
+				"/home/radhya/codes/p2/d9/c.cpp",
+				"/home/radhya/codes/p2/d9/random.cpp",
+				"/home/radhya/codes/p2/d9/random",
+				"/home/radhya/codes/p2/d9/d2.cpp",
+				"/home/radhya/codes/p2/d9/d01.cpp",
+				"/home/radhya/codes/p2/d9/d9",
+				"/home/radhya/codes/p2/d8/ac.cpp",
+				"/home/radhya/codes/p2/d5/bac.cpp",
+				"/home/radhya/codes/p2/d8/dac.cpp",
+				"/home/radhya/codes/p2/d8/c1.cpp",
+				"/home/radhya/codes/p2/d8/random.cpp",
+				"/home/radhya/codes/p2/d8/c.cpp",
+				"/home/radhya/codes/p2/d8/b.cpp",
+				"/home/radhya/codes/p2/d8/d2.cpp",
+				"/home/radhya/codes/p2/d8/d1.cpp",
+				"/home/radhya/codes/p2/d8/a.cpp",
+				"/home/radhya/codes/p2/d8/a2.cpp",
+				"/home/radhya/codes/p2/d7/a2.cpp",
+				"/home/radhya/dotfiles/configs/sublime-text/Packages/User/cptemp.sublime-snippet",
+				"/home/radhya/dotfiles/configs/sublime-text/Packages/User/codeforces.sublime-snippet",
+				"/home/radhya/codes/p2/d7/c.cpp",
+				"/home/radhya/codes/p2/d7/a1.cpp",
+				"/home/radhya/codes/p2/d7/c1.cpp",
+				"/home/radhya/codes/p2/d7/b.cpp",
+				"/home/radhya/codes/p2/d7/tmp/a2.cpp",
+				"/home/radhya/codes/p2/d6/ac.cpp",
+				"/home/radhya/codes/p2/d6/a.cpp",
+				"/home/radhya/codes/p2/d6/d.cpp",
+				"/home/radhya/codes/p2/d6/b.cpp",
+				"/home/radhya/codes/p2/d5/a.cpp",
+				"/home/radhya/codes/p2/random/hackearth_tgt.cpp",
+				"/home/radhya/codes/p2/q1/dac.cpp",
+				"/home/radhya/codes/p2/q1/random.cpp",
+				"/home/radhya/codes/p2/q1/d.cpp",
+				"/home/radhya/codes/p2/q1/toxic/toxic.cpp",
+				"/home/radhya/codes/p2/q1/toxic/random.cpp",
+				"/home/radhya/codes/p2/q1/e.cpp",
+				"/home/radhya/codes/p2/q1/bac.cpp",
+				"/home/radhya/codes/p2/q1/b1.cpp",
+				"/home/radhya/codes/p2/q1/a.cpp",
+				"/home/radhya/codes/p2/q1/b.cpp",
+				"/home/radhya/codes/p2/q1/q1",
+				"/home/radhya/codes/p2/d5/c/relic.cpp",
+				"/home/radhya/codes/p2/d5/random.cpp",
+				"/home/radhya/codes/p2/d5/b1.cpp",
+				"/home/radhya/codes/p2/d5/a1.cpp",
+				"/home/radhya/codes/p2/d5/c/brelic.cpp",
+				"/home/radhya/codes/p2/d5/c/a.cpp",
+				"/home/radhya/codes/p2/d5/c/grader.cpp",
+				"/home/radhya/codes/p2/d5/dac.cpp",
+				"/home/radhya/codes/p2/d5/c.cpp",
+				"/home/radhya/codes/cf/1433/e.cpp",
+				"/home/radhya/codes/cf/1433/c.cpp",
+				"/home/radhya/codes/cf/1433/b.cpp",
+				"/home/radhya/codes/cf/1433/a.cpp",
+				"/home/radhya/codes/p2/d4/c.cpp",
+				"/home/radhya/codes/p2/d4/b/diplomacy.cpp",
+				"/home/radhya/codes/p2/d4/a_bf.cpp",
+				"/home/radhya/codes/p2/d4/acc.cpp",
+				"/home/radhya/codes/cf/1941/a.cpp",
+				"/home/radhya/codes/cf/1941/b.cpp",
+				"/home/radhya/codes/p2/d4/ac.cpp",
+				"/home/radhya/codes/p2/d4/a.cpp",
+				"/home/radhya/tweaks/newaybar/dotfiles/config/hypr/scripts/lock.sh",
+				"/home/radhya/tweaks/dotfiles/misc/lockscreen/lock-screen.sh",
+				"/home/radhya/programs/scripts/lock-screen.sh",
+				"/home/radhya/codes/p2/d4/d.cpp",
+				"/home/radhya/codes/p2/d4/a-backup.cpp",
+				"/home/radhya/codes/p2/d4/b/1-sample.txt",
+				"/home/radhya/codes/pelatnas2023/p3/pjj-repeating/pjj1/a1.cpp",
+				"/home/radhya/codes/p2/d4/b/diplomacyLCA.cpp",
+				"/home/radhya/codes/p2/d4/b/compile_cpp.sh",
+				"/home/radhya/codes/p2/d3/bac.cpp",
+				"/home/radhya/codes/p2/d3/c/permutations.cpp",
+				"/home/radhya/codes/p2/d3/c/compile_cpp.sh",
+				"/home/radhya/codes/p2/d3/a.cpp",
+				"/home/radhya/codes/p2/d3/d.cpp",
+				"/home/radhya/codes/p2/random/apio2018c.cpp",
+				"/home/radhya/codes/p2/random/cses1686.cpp",
+				"/home/radhya/testdisk.log",
+				"/home/radhya/codes/cf/342e.cpp",
+				"/home/radhya/landing/user_output.txt",
+				"/home/radhya/landing/test_output.txt",
+				"/home/radhya/landing/test_input.txt",
+				"/home/radhya/landing/user_output(2).txt",
+				"/home/radhya/landing/user_output(1).txt",
+				"/home/radhya/codes/p2/random/cses1705.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d2/c2.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d1/d.cpp",
+				"/home/radhya/codes/cf/870/e.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d2/d.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d2/c1.cpp",
+				"/home/radhya/codes/pelatnas2024/p2/d2/random.cpp"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 163.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/radhya/codes/p2/d6"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/radhya/codes/p2/d6/ac.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4570,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3318,
+										3318
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3150.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 75.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 160.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/CP.sublime-build",
+			"position": "0,1,0,0,0,0,0,1185,822,1536,864,0",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 202.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 84,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
